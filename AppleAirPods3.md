@@ -1,7 +1,7 @@
 ---
 layout: coupang
 # 쿠팡 리디렉션 셋팅
-permalink: /SamsungGalaxyS23Ultra
-title: Samsung Galaxy S23 Ultra
+permalink: /AppleAirPods3
+title: Apple Air Pods 3
 coupang_link: https://link.coupang.com/a/bjlPoe
 ---
